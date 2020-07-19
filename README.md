@@ -2,6 +2,6 @@
 Cell Tracking Challenge (CTC)
 
 Data set:
-  DIC-C2DH-Hela
-  Fluo-N2DL-Hela
+  DIC-C2DH-Hela,
+  Fluo-N2DL-Hela,
   PhC-C2DL-PSC
