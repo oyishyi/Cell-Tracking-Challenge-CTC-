@@ -1,0 +1,9 @@
+Author: Xiaohao Zhou
+
+Architechture: modified U-Net
+
+Training dataset: DIC-C2DH-Hela
+
+The anwser is shown in notebook file.
+
+Data augmentation is not yet implemented, but the outcome is good enough now.
